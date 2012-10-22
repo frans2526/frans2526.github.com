@@ -2,14 +2,22 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://frans2526.github.com/blog/2012/08/24/hello/</loc>
-        <lastmod>2012-08-24T16:08:02+02:00</lastmod>
+        <lastmod>2012-08-24T07:08:02-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://frans2526.github.com/blog/2012/09/11/lets-go/</loc>
+        <lastmod>2012-10-21T16:27:00-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://frans2526.github.com/blog/2012/10/21/the-adventure-continue/</loc>
+        <lastmod>2012-10-21T17:17:04-07:00</lastmod>
     </url>
     <url>
         <loc>http://frans2526.github.com/blog/archives/</loc>
-        <lastmod>2012-08-24T16:08:02+02:00</lastmod>
+        <lastmod>2012-10-21T17:17:04-07:00</lastmod>
     </url>
     <url>
         <loc>http://frans2526.github.com/</loc>
-        <lastmod>2012-08-24T16:08:02+02:00</lastmod>
+        <lastmod>2012-10-21T17:17:04-07:00</lastmod>
     </url>
 </urlset>
