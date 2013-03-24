@@ -2,26 +2,38 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://frans2526.github.com/blog/2012/08/24/hello/</loc>
-        <lastmod>2012-08-24T07:08:02-07:00</lastmod>
+        <lastmod>2012-08-24T10:08:02-04:00</lastmod>
     </url>
     <url>
         <loc>http://frans2526.github.com/blog/2012/09/11/lets-go/</loc>
-        <lastmod>2012-10-21T16:27:00-07:00</lastmod>
+        <lastmod>2012-10-21T19:27:00-04:00</lastmod>
     </url>
     <url>
         <loc>http://frans2526.github.com/blog/2012/10/21/the-adventure-continue/</loc>
-        <lastmod>2012-12-09T20:43:39-08:00</lastmod>
+        <lastmod>2012-12-09T23:43:39-05:00</lastmod>
     </url>
     <url>
         <loc>http://frans2526.github.com/blog/2012/12/09/3-months/</loc>
-        <lastmod>2012-12-09T20:43:41-08:00</lastmod>
+        <lastmod>2012-12-09T23:43:41-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://frans2526.github.com/blog/2013/01/18/goodbye-vancouver/</loc>
+        <lastmod>2013-03-23T17:48:02-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://frans2526.github.com/blog/2013/01/26/cold-and-snow-in-toronto/</loc>
+        <lastmod>2013-03-23T18:25:58-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://frans2526.github.com/blog/2013/03/23/bonjour-montreal/</loc>
+        <lastmod>2013-03-23T18:55:44-04:00</lastmod>
     </url>
     <url>
         <loc>http://frans2526.github.com/blog/archives/</loc>
-        <lastmod>2012-12-09T20:43:41-08:00</lastmod>
+        <lastmod>2013-03-23T18:55:44-04:00</lastmod>
     </url>
     <url>
         <loc>http://frans2526.github.com/</loc>
-        <lastmod>2012-12-09T20:43:41-08:00</lastmod>
+        <lastmod>2013-03-23T18:55:44-04:00</lastmod>
     </url>
 </urlset>
